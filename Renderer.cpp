@@ -19,7 +19,7 @@ bool Renderer::Init()
   if (SDL_Init(SDL_INIT_EVERYTHING) < 0)
     return false;
 
-  m_pWindow = SDL_CreateWindow("Test window", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 800, 800, SDL_WINDOW_SHOWN);
+  m_pWindow = SDL_CreateWindow("Pattern window", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 800, 800, SDL_WINDOW_SHOWN);
   if (m_pWindow == nullptr)
     return false;
 
