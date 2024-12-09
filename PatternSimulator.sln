@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatternSimulator", "PatternSimulator.vcxproj", "{E85E64A0-0629-4B2C-8050-BE0FC35D6773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Debug|x64.ActiveCfg = Debug|x64
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Debug|x64.Build.0 = Debug|x64
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Debug|x86.ActiveCfg = Debug|Win32
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Debug|x86.Build.0 = Debug|Win32
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Release|x64.ActiveCfg = Release|x64
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Release|x64.Build.0 = Release|x64
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Release|x86.ActiveCfg = Release|Win32
+		{E85E64A0-0629-4B2C-8050-BE0FC35D6773}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8268BE62-6A83-4299-B5A6-6FE13981858E}
+	EndGlobalSection
+EndGlobal
